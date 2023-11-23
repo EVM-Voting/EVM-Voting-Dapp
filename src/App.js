@@ -1,25 +1,19 @@
-import { useState } from "react";
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
-import Home from "./Home.js";
-import Admin from "./components/admin/Admin.js";
-import Wallet from './components/Wallet/Wallet.js';
+import {NotificationContainer} from 'react-notifications';
+import React from 'react';
 
-function App({ }) {
+import 'react-notifications/lib/notifications.css';
 
-  const router = createBrowserRouter([
-    { path: '/', element: <Home /> },
-    { path: '/admin', element: <Admin/> },
+import './App.scss';
 
-  ])
+import Home from './pages/Home/Home';
 
-
-  return (
-    <>
-      <RouterProvider router={router} />
-    </>
-  );
+function App() {
+	return (
+    <div className="App">
+      <Home/>
+      <NotificationContainer />
+    </div>
+	);
 }
-
-
 
 export default App;
