@@ -3,9 +3,7 @@ Blockchain-Voting-System
 <img width="1000" alt="image" src="https://github.com/SamarthGhante/Blockchain-Voting-System/assets/144468120/fa05aacb-7e88-41ae-8056-622a599e6487">
 
 
-### Demo👀👀
-
-https://github.com/SamarthGhante/Blockchain-Voting-System/assets/133847514/77e79509-0582-45b9-8add-2cc6e7231cef
+### Demo👀
 
 <div align="center" >
 
@@ -36,7 +34,7 @@ The working is as follows:
 Clone Repo:
 
 ```sh
-git clone https://github.com/SamarthGhante/Blockchain-Voting-System.git
+git clone https://tomasoutloo95@bitbucket.org/chain-squadron/blockchain-voting-system.git
 cd Blockchain-Voting-System
 ```
 
