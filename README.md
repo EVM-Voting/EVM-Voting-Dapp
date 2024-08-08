@@ -54,7 +54,7 @@ The working is as follows:
 Clone Repo:
 
 ```sh
-git clone https://tomasoutloo95@bitbucket.org/chain-squadron/blockchain-voting-system.git
+git clone https://gitlab.com/evolevoting/voting-dapp
 cd Blockchain-Voting-System
 ```
 
