@@ -1,20 +1,7 @@
-Blockchain-Voting-System
+EVM-Voting-System
 =======
-<img width="1000" alt="image" src="https://github.com/SamarthGhante/Blockchain-Voting-System/assets/144468120/fa05aacb-7e88-41ae-8056-622a599e6487">
-
-
-### Demo👀
-
-<div align="center" >
-
- <strong>Try out our Voting Dap:  <a href="https://votingdapp-chainsquadron.vercel.app/">Click Here</a>!</strong>
-
-
- 
-</div>
-
 ## Overview💜
-The Block Chain Based Voting system is a project brought by Chain-Squadron, In this we used solidty to form a smart contract
+The Block Chain Based Voting system is a project brought by CowChain, In this we used solidty to form a smart contract
  and hosted it using polygon testnet.Then we used React along with Java Script to connect the contract to frontend.
 The working is as follows:
 <img width="1000" alt="image" src="https://github.com/SamarthGhante/Blockchain-Voting-System/assets/144468120/c7f191e1-5103-4afc-8425-3b4a6d7d1508">
@@ -22,41 +9,33 @@ The working is as follows:
 
 ## Usage Requirements🤖
 1. Install `Metamask` Wallet (Connects You To Web3 World)!
-2. Add Polygon Mumbai Testnet <a href="https://www.alchemy.com/overviews/mumbai-testnet">(Read Here)</a></strong>
-3. Get Some Free Testnet Tokens From <a href="https://mumbaifaucet.com/">Here</a></strong>☂️
+2. Add Polygon Amoy Testnet <a href="https://polygon.technology/blog/introducing-the-amoy-testnet-for-polygon-pos">(Read Here)</a></strong>
+3. Get Some Free Testnet Tokens From <a href="https://faucet.polygon.technology/">Here</a></strong>☂️
 <p>All Set! Welcome To Decentralized World of Web3🤩</p>
 
 
-**Todo List:**
+## Todo List📝
 
-### Staking Feature:
+### **Staking Feature:**
+- Implement staking functionality allowing users to lock up their tokens for a set period in exchange for rewards.
+- Integrate staking into the voting system so that voters can stake their tokens before casting their votes.
+- Calculate staking rewards based on the amount of tokens staked and the duration of the stake.
+- Create a user-friendly interface for staking tokens with customizable durations and yield calculations.
 
-* Implement staking functionality that allows users to lock up their tokens for a set period of time in exchange for rewards
-* Integrate staking into the voting system, so that voters can stake their tokens before casting their votes
-* Calculate staking rewards based on the amount of tokens staked and the duration of the stake
+### **User Interface Enhancements:**
+- Improve user interface and user experience to ensure a clean, intuitive dashboard for users to manage their investments, monitor performance, and track staking rewards.
+- Implement advanced voting options (e.g., weighted voting, ranked-choice voting).
 
-### Token Promotion Feature:
+### **Security Measures:**
+- Implement robust security protocols to safeguard user funds and personal information (e.g., multi-sig wallets, reentrancy protection).
 
-* Implement a token promotion system that rewards users for participating in voting and staking
-* Integrate token promotion with the voting system, so that users receive tokens as rewards for casting their votes
-* Calculate token promotion rewards based on the number of votes cast and the duration of the stake
-
-### Other Updates:
-
-* Improve user interface and user experience
-* Add more advanced voting options (e.g. weighted voting, ranked-choice voting)
-* Integrate with other blockchain platforms (e.g. Ethereum, Binance Smart Chain)
-* Implement more advanced security measures (e.g. multi-sig wallets, reentrancy protection)
-
+## **Key Performance Indicators (KPIs):**
+- Platform functionality and usability
+- Token launch and staking capabilities
+- Security and compliance with industry standards
+- User adoption and engagement
 
 ## Running VotingDapp Locally👨‍💻
-
-Clone Repo:
-
-```sh
-git clone https://gitlab.com/evolevoting/voting-dapp
-cd Blockchain-Voting-System
-```
 
 Install Dependencies:
 
